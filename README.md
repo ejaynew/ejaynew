@@ -1,8 +1,8 @@
 ### Hi there :wave:
 
-My name is **Emma** and I'm a junior developer based in **Durham, NC**. On this profile, you can find info&nbsp;about...
+My name is **Emma** and I'm a developer based in **Durham, NC**. On this profile, you can find info&nbsp;about...
 - 🔭 My projects, including scripts, websites, and web-apps.
-- 🌱 My progress through the Full-Stack Developer course on Codecademy.
+- 🌱 My progress in the quest to consistently write expressive, maintainable code.
 - 👯 My collaboration with other developers.
 
 ### Get to know me :woman:
