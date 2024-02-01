@@ -1,11 +1,11 @@
 ### Hi there :wave:
 
-My name is **Emma** and I'm a developer based in **Durham, NC**. On this profile, you can find info&nbsp;about...
-- 🔭 My projects, including scripts, websites, and web-apps.
-- 🌱 My progress in the quest to consistently write expressive, maintainable code.
-- 👯 My collaboration with other developers.
+My name is **Emma** and I'm a developer based in **Durham, NC**. Welcome to my&nbsp;Github.
+- 🔭 I'm currently working on a couple different full-stack JavaScript projects.
+- 🌱 I'm on a journey to consistently write expressive, maintainable code.
+- 👯 Available for collaboration
 
 ### Get to know me :woman:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ejaynew/">www.linkedin.com/in/ejaynew</a>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The world's first computer programmer was a woman named Ada Lovelace, who wrote the first algorithm for Charles Babbage's analytical engine in the 1840s.
+- ⚡ Fun fact about me: I've been to over half the states in the US!
