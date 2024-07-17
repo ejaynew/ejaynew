@@ -1,4 +1,6 @@
-### Hi there :wave:
+## Hi there :wave:
+
+### About me
 My name is **Emma** and I'm a developer based in **Arlington, VA**. Welcome to my&nbsp;Github.
 - 🔭 I have experience with:
   - Cloud migration projects
@@ -25,3 +27,7 @@ My name is **Emma** and I'm a developer based in **Arlington, VA**. Welcome to m
 - Tools: PowerBI, Tableau, Salesforce, Excel, Git, Webpack
 - Methodologies: Agile/Scrum, Responsive Web Design, Cross-browser Compatibility
 - Other: RESTful APIs, Azure, SQL, Collaboration, Teamwork
+
+---
+
+Thanks for visiting my GitHub! Feel free to reach out or connect with me on LinkedIn.
